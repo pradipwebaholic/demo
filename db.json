@@ -2,22 +2,22 @@
 
 	"users": [{
 			"id": 1,
-			"title": "Pradip",
+			"name": "Pradip",
 			"dp": "http://www.google.com/img"
 		},
 		{
 			"id": 2,
-			"title": "Rahul",
+			"name": "Rahul",
 			"dp": "http://www.google.com/img"
 		},
 		{
 			"id": 3,
-			"title": "Kartik",
+			"name": "Kartik",
 			"dp": "http://www.google.com/img"
 		},
 		{
 			"id": 2,
-			"title": "Raisa",
+			"name": "Raisa",
 			"dp": "http://www.google.com/img"
 		}
 	],
