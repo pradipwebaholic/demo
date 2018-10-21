@@ -1,14 +1,36 @@
 {
-  
-  "users": [
-    { "id": 1, "title": "Pradip", "dp":"http://www.google.com/img" },
-    { "id": 2, "title": "Rahul", "dp":"http://www.google.com/img" },
-    { "id": 3, "title": "Kartik","dp":"http://www.google.com/img" },
-    { "id": 2, "title": "Raisa" ,"dp":"http://www.google.com/img"}
-  ],
-  "comments": [
-    { "userID": 1, "body": "Russian federation is unbreakable , It is rather occupying other lands", "postId": 8373 },
-    { "USerID": 2, "body": "India and China are big Nations , their future lies in mutual co-operation and rivery", "postId": 1232 }
-  ]
- 
+
+	"users": [{
+			"id": 1,
+			"title": "Pradip",
+			"dp": "http://www.google.com/img"
+		},
+		{
+			"id": 2,
+			"title": "Rahul",
+			"dp": "http://www.google.com/img"
+		},
+		{
+			"id": 3,
+			"title": "Kartik",
+			"dp": "http://www.google.com/img"
+		},
+		{
+			"id": 2,
+			"title": "Raisa",
+			"dp": "http://www.google.com/img"
+		}
+	],
+	"comments": [{
+			"userID": 1,
+			"body": "Russian federation is unbreakable , It is rather occupying other lands",
+			"postId": 8373
+		},
+		{
+			"USerID": 2,
+			"body": "India and China are big Nations , their future lies in mutual co-operation and rivery",
+			"postId": 1232
+		}
+	]
+
 }
