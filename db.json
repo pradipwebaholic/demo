@@ -1,7 +1,7 @@
 {
   
   "users": [
-    { "id": 1, "title": "Pradip", "dp":"http://www.google.com/img", },
+    { "id": 1, "title": "Pradip", "dp":"http://www.google.com/img" },
     { "id": 2, "title": "Rahul", "dp":"http://www.google.com/img" },
     { "id": 3, "title": "Kartik","dp":"http://www.google.com/img" },
     { "id": 2, "title": "Raisa" ,"dp":"http://www.google.com/img"}
